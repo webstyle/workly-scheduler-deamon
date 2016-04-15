@@ -1,0 +1,15 @@
+{
+  "name": "deamon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addStaff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "random-number": "0.0.7",
+    "request": "^2.71.0"
+  }
+}
